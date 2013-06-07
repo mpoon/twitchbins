@@ -24,7 +24,7 @@
 	- On the next page you'll see your Client ID and Client Secret
 	- If you've already registered, you can just click Edit to see your Client ID and Client Secret
  	- **IMPORTANT** 
-  		- You'll need to provide us with this Client ID so that we can  whitelist it prior to streaming (no need to do this for the Client Secret)
+  		- You'll need to provide us with this Client ID (e-mail brooke@twitch.tv) so that we can  whitelist it prior to streaming (no need to do this for the Client Secret)
         - If your endpoint is api.justin.tv you have googled and stumbled across the old api we are currently depracating
 
 ###iOS  
