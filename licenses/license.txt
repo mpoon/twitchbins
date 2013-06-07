@@ -1,0 +1,19 @@
+By integrating the SDK you agree to the terms and conditions described in the Twitch SDK license agreement.  The Twitch SDK has several dependencies that require acknowledgment.  Their license files when appropriate are included within this directory.  For your convenience the libraries and their license types are enumerated here.  
+
+1. LAME codec:  www.mp3dev.org; LGPL
+2. JSONCPP;  http://jsoncpp.sourceforge.net; public domain
+3. Intel Media SDK; http://software.intel.com/en-us/node/267277
+4. libcurl; http://curl.haxx.se; MIT
+5. openssl; http://www.openssl.org/; Apache/BSD
+6. FFMPEG; http://ffmpeg.org; LGPL
+
+Additionally some acknoledgments are included at the bottom of this file.
+
+1.  MPEG Layer-3 audio coding technology licensed from Fraunhofer IIS and Thomson Licensing is included in this product.
+
+2.  This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/)
+
+3.  THIS PRODUCT IS LICENSED UNDER AVC PATENT PORTFOLIO LICENSE FOR THE PERSONAL USE OF A CONSUMER OR OTHER USES IN WHICH IT DOES NOT RECEIVE REMUNERATION TO (i) ENCODE VIDEO IN COMPLIANCE WITH THE AVC STANDARD ("AVC VIDEO") AND/OR (ii) DECODE AVC VIDEO THAT WAS ENCODED BYA  CONSUMER ENGAGED IN A PERSONAL ACTIVITY AND/OR WAS OBTAINED FROM A VIDEO PROVIDER LICENSED TO PROVIDE AVC VIDEO.  NO LICENSE IS GRANTED OR SHALL BE IMPLIED FOR ANY OTHER USE.  ADDITIONAL INFORMATION MAY BE OBTAINED FROM MPEG LA, L.L.C.  SEE HTTP://WWW.MPEGLA.COM
+
+4.  This software uses libraries from the FFmpeg project under the LGPLv2.1"
+
