@@ -38,3 +38,5 @@
 - If you get STL linker errors you'll need to set your project setting for "C++ Standard Library" to "libc++ (LLVM C++ standard library with C++11 support)." This won't work for iOS < 5.0
 - Follow the steps for getting your client ID and Secret and whitelisting it as described in the PC section above
 - For audio capture to work, you must initialize your audio session with the kAudioSessionCategory_PlayAndRecord category
+
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/da4459390fa5c35119bd2f8c398e89f4 "githalytics.com")](http://githalytics.com/twitchsdk/twitchbins)
